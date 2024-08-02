@@ -1,8 +1,8 @@
 version: '3.9'
 
 services:
-  luccaexpenses.api:
-    container_name: luccaexpenses.api
+  lucca.expenseapp.api:
+    container_name: luccaexpenseappapi
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - ASPNETCORE_HTTP_PORTS=8080

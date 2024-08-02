@@ -7,7 +7,7 @@
     <ProjectGuid>e2dc1749-efc3-4d4a-8c65-4cfd2574998d</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}/swagger</DockerServiceUrl>
-    <DockerServiceName>luccaexpenses.api</DockerServiceName>
+    <DockerServiceName>lucca.expenseapp.api</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
     <None Include="docker-compose.override.yml">
